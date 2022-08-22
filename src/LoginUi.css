@@ -1,0 +1,83 @@
+.tri .main {
+    text-align: center;
+    justify-content: center;
+    display: flex; 
+    padding-top: 12%;
+    padding-bottom: 20%;
+    background-color: #e1e3eb;
+  }
+  .tri .sub-main {
+    display: flex;
+    justify-content: center;
+    height: 45%;
+    width: 35%;
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+    padding-top: 30px;
+    border-radius: 60px; 
+    background-color: white;
+  }
+  .tri .imgs {
+      padding-top: 30px;
+      justify-content: center;
+      display: flex;
+    }
+    .tri .container-image {
+    background-color: rgb(223, 221, 221); 
+    border-radius: 150px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+  }
+  .tri .profile {
+    height: 190px;
+    width: 190px;
+    border-radius: 130px;
+  } 
+
+  .tri input{
+      width: 80%;
+      height: 60px;
+      border-radius: 60px;
+      box-shadow: inset 0px 0px 25px 0px #888;
+      border: none;
+      outline: none;
+      background-color: #fff;
+  }
+
+  .tri .email{
+      height: 25px;
+      width: 25px;
+      position: absolute;
+      padding: 14px 0 0 25px;
+  }
+
+  .tri .name{
+      padding-left: 70px;
+      font-size: 20px;
+  }
+  .tri .second-input{
+      padding-top: 20px;
+  }
+
+  .tri button{
+      width: 250px;
+      height: 50px;
+      border-radius: 60px;
+      background-color: #b103fc;
+      color: white;
+      font-size: 25px;
+      border: none;
+  }
+  .tri .login-button{
+      padding-top: 35px;
+  }
+
+  .tri .link{
+      font-size: 20px;
+      font-weight: 400;
+  }
+  .tri a{
+       color: blue;
+   }
